@@ -1,6 +1,6 @@
 # M5atom-dimmable-light
 
-Simple project (2 minutes) with and M5atom  Matrixand an arduino muodule k-018 (https://arduinomodules.info/ky-018-photoresistor-module/).
+Simple project (2 minutes) with and M5atom  Matrixand an arduino module k-018 (https://arduinomodules.info/ky-018-photoresistor-module/).
 Just plug the module in the M5atom and upload the code, the M5atom matrix will be brighter as the light decreases.
 5 led brightness and 5 different colors (changing color by clicking the screen)
 
