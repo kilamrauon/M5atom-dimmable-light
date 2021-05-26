@@ -7,3 +7,7 @@ Just plug the module in the M5atom and upload the code, the M5atom matrix will b
 
 I have encountered several problems with the leds:
 The screen has stange beahviour with some colors (especially with some predefined colors) and is white when the brightness is at 5. don't know why
+
+ ![Screenshot]https://github.com/kilamrauon/M5atom-dimmable-light/blob/main/20210526_203055.jpg
+ 
+![Screenshot]https://github.com/kilamrauon/M5atom-dimmable-light/blob/main/20210526_203113.jpg
