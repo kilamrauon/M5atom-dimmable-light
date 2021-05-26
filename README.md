@@ -6,7 +6,7 @@ Just plug the module in the M5atom (the S pin of the module must be plugged in t
 
 
 I have encountered several problems with the leds:
-The screen has stange beahviour with some colors (especially with some predefined colors) and is white when the brightness is at 5. don't know why
+The screen has strange behaviour with some colors (especially with some predefined colors) and is white when the brightness is at 5. don't know why
 
  ![Screenshot](https://github.com/kilamrauon/M5atom-dimmable-light/blob/main/20210526_203055.jpg)
  
