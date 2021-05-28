@@ -1,5 +1,5 @@
 #include "M5Atom.h"  //not needed
-#include <FastLED.h>
+//#include <FastLED.h>
 
 /* definitions fastled*/
 #define NUM_LEDS 25
